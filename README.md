@@ -1,6 +1,9 @@
 # **Bionformatic Tutorials for Beginners**
 
 
+### **Bioinformatics and Genomics from Johns Hopkins University - Coursera**
+* Python for Genomic Data Science → [Open repository](https://github.com/harishmuh/Python-for-Genomic-Data-Science-Coursera)
+
 ### **Bioinformatic course from UC San Diego - Coursera**
 * Bioinformatics I: Finding Hidden Messages in DNA Coursera → [Open repository](https://github.com/harishmuh/Bioinformatics-I_Finding-Hidden-Messages-in-DNA-Coursera)
 * Bioinformatics II: Genome Sequencing → [Open repository](https://github.com/harishmuh/Bioinformatics-II_Genome-Sequencing-Coursera)
