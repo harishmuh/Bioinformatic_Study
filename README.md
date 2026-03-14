@@ -1,4 +1,6 @@
-# **Bionformatic Tutorials for Beginners**
+# **Bionformatic Study**
+
+This repository contains curated bioinformatic tutorials for beginners 
 
 
 ### **Bioinformatics and Genomics from Johns Hopkins University - Coursera**
