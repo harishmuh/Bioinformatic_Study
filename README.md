@@ -11,5 +11,8 @@ This repository contains curated bioinformatic tutorials for beginners
 * Bioinformatics II: Genome Sequencing → [Open repository](https://github.com/harishmuh/Bioinformatics-II_Genome-Sequencing-Coursera)
 * Bioinformatics III: Comparing genes, proteins, and genomes → [Open repository](https://github.com/harishmuh/Bioinformatics-III_Comparing-genes-proteins-and-genomes)
 
+### **Other Bioinformatic Courses**
+* Bioinformatic private courses
+
 ### **More Bioinformatic Repositories**
 * Bioinformatic projects portfolio → [Open repository](https://github.com/harishmuh/bioinformatics_biopython_projects)
